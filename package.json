@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/ericz99/auth-bot#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "console-stamp": "^0.2.7",
     "discord.js": "^11.4.2",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "express-handlebars": "^3.0.0",
     "moment": "^2.23.0",
     "mongoose": "^5.4.2",
